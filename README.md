@@ -2,7 +2,7 @@
 
 artwork proposal
 
-video
+video:https://drive.google.com/file/d/18sz3nw0LA4DPb13gpGNCIkjt5LnnoEz1/view?usp=sharing
 
 pictures
 
