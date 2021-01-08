@@ -6,7 +6,7 @@ video:https://drive.google.com/file/d/18sz3nw0LA4DPb13gpGNCIkjt5LnnoEz1/view?usp
 
 pictures:exhibition_pic
 
-poster
+poster:0512251_poster.pdf
 
 ppt:2021_0108_Honeycomb.pdf
 
